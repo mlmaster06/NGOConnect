@@ -3,7 +3,7 @@ Preview : https://helpinghands-miniproject.netlify.app
 
 ![Helping Hands Logo](logo.png)
 
-Welcome to the Helping Hands NGO Connecting Website repository! This project aims to provide a platform where users can easily discover and donate to NGOs of their choice. The website is designed to facilitate the process of connecting donors with various nonprofit organizations, making it simple and convenient to contribute to causes that matter.
+Welcome to the NGO Connecting Website repository! This project aims to provide a platform where users can easily discover and donate to NGOs of their choice. The website is designed to facilitate the process of connecting donors with various nonprofit organizations, making it simple and convenient to contribute to causes that matter.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to the Helping Hands NGO Connecting Website repository! This project aim
 
 ## Introduction
 
-Helping Hands is a web application that bridges the gap between donors and NGOs by offering an intuitive interface for browsing and selecting charitable organizations to support financially. The website showcases a curated list of NGOs, each with detailed information about their mission, projects, and impact. Users can make donations through a secure payment gateway and also track their donation history.
+NGOConnect is a web application that bridges the gap between donors and NGOs by offering an intuitive interface for browsing and selecting charitable organizations to support financially. The website showcases a curated list of NGOs, each with detailed information about their mission, projects, and impact. Users can make donations through a secure payment gateway and also track their donation history.
 
 ## Features
 
